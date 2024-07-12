@@ -17,6 +17,7 @@ body {
     font-size: 35px;
     font-family: Helvetica;
     font-weight: 500;
+    overflow: hidden;
 }
 
 table,
